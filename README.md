@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Stefan Jacomeit
 
-<!--
-**Stefan39/Stefan39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**English** | [Deutsch](#deutsch)
 
-Here are some ideas to get you started:
+Freelance PHP/Symfony developer from Bremerhaven, Germany – I build robust Symfony backends and integrate AI into business processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: [www.jacomeit.de](https://www.jacomeit.de)
+
+## Flagship projects
+
+| Project | What it does |
+| --- | --- |
+| [MiteBundle](https://github.com/Stefan39/MiteBundle) | Symfony bundle for the mite time-tracking API |
+| _coming soon_ | Lexware Office MCP server |
+| _coming soon_ | Symfony chat bundle |
+
+More repositories will follow. Issues and pull requests are welcome.
+
+---
+
+<a id="deutsch"></a>
+
+# Hallo, ich bin Stefan Jacomeit
+
+[English](#hi-im-stefan-jacomeit) | **Deutsch**
+
+Freiberuflicher PHP/Symfony-Entwickler aus Bremerhaven – ich baue belastbare Symfony-Backends und binde KI in Geschäftsprozesse ein.
+
+Website: [www.jacomeit.de](https://www.jacomeit.de)
+
+## Flaggschiff-Projekte
+
+| Projekt | Was es macht |
+| --- | --- |
+| [MiteBundle](https://github.com/Stefan39/MiteBundle) | Symfony-Bundle für die mite-Zeiterfassungs-API |
+| _folgt_ | Lexware-Office-MCP-Server |
+| _folgt_ | Symfony-Chat-Bundle |
+
+Weitere Repositories folgen. Issues und Pull Requests sind willkommen.
