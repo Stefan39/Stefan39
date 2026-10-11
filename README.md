@@ -11,7 +11,7 @@ Website: [www.jacomeit.de](https://www.jacomeit.de)
 | Project | What it does |
 | --- | --- |
 | [MiteBundle](https://github.com/Stefan39/MiteBundle) | Symfony bundle for the mite time-tracking API |
-| _coming soon_ | Lexware Office MCP server |
+| [lexware-php-mcp](https://github.com/Stefan39/lexware-php-mcp) | Unofficial read-only MCP server for Lexware Office: ask Claude about open and overdue invoices |
 | _coming soon_ | Symfony chat bundle |
 
 More repositories will follow. Issues and pull requests are welcome.
@@ -33,7 +33,7 @@ Website: [www.jacomeit.de](https://www.jacomeit.de)
 | Projekt | Was es macht |
 | --- | --- |
 | [MiteBundle](https://github.com/Stefan39/MiteBundle) | Symfony-Bundle für die mite-Zeiterfassungs-API |
-| _folgt_ | Lexware-Office-MCP-Server |
+| [lexware-php-mcp](https://github.com/Stefan39/lexware-php-mcp) | Inoffizieller, rein lesender MCP-Server für Lexware Office: Claude fragt offene und überfällige Rechnungen ab |
 | _folgt_ | Symfony-Chat-Bundle |
 
 Weitere Repositories folgen. Issues und Pull Requests sind willkommen.
