@@ -2,7 +2,7 @@
 
 **English** | [Deutsch](#deutsch)
 
-Freelance PHP/Symfony developer from Bremerhaven, Germany – I build robust Symfony backends and integrate AI into business processes.
+AI automation consultant and builder from Bremerhaven, Germany. I help small and mid-sized businesses automate everyday processes with AI, from the first idea to a working integration. Behind it are 25+ years of PHP and Symfony engineering, so the solutions are built to last.
 
 Website: [www.jacomeit.de](https://www.jacomeit.de)
 
@@ -24,7 +24,7 @@ More repositories will follow. Issues and pull requests are welcome.
 
 [English](#hi-im-stefan-jacomeit) | **Deutsch**
 
-Freiberuflicher PHP/Symfony-Entwickler aus Bremerhaven – ich baue belastbare Symfony-Backends und binde KI in Geschäftsprozesse ein.
+Berater und Umsetzer für KI-Automatisierung aus Bremerhaven. Ich helfe kleinen und mittleren Unternehmen, Abläufe mit KI zu automatisieren, von der ersten Idee bis zur laufenden Integration. Dahinter stehen über 25 Jahre PHP- und Symfony-Entwicklung, damit die Lösungen belastbar sind.
 
 Website: [www.jacomeit.de](https://www.jacomeit.de)
 
